@@ -1,8 +1,9 @@
 class Person
-  attr_accessor :name 
+  attr_accessor :name
   @name 
   
   attr_accessor :job 
   @job
   
 end
+
